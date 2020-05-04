@@ -1,1 +1,1 @@
-hello
+{"type": 1, "id": "706911196837839031", "name": "freddy&friends inc", "avatar": "d5afb2529f80305c17a6e9846be5a099", "channel_id": "700387208137408564", "guild_id": "700387207596212255", "token": "RsoTKP26GHh3sKFcGmbHyNA8ZUIermC8NuIJF23btaR0q8WMbSyQFmqQckh_uouCEbBQ"}
